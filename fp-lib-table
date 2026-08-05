@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Capacitor-2.2uF") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/Capacitor-2.2uF") (options "") (descr ""))
+	(lib (name "Capacitor-22uF") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/Capacitor-22uF") (options "") (descr ""))
+	(lib (name "Schottky") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/Schottky") (options "") (descr ""))
+	(lib (name "Capacitor-100nF") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/Capacitor-100nF") (options "") (descr ""))
+	(lib (name "Inductor-6.8uH") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/Inductor-6.8uH") (options "") (descr ""))
+	(lib (name "LMR16006XDDCR") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/LMR16006XDDCR") (options "") (descr ""))
+)
