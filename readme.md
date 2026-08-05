@@ -1,7 +1,7 @@
 readme_content = """# Ultra-Compact 12V to 3.3V Buck Converter Module (LMR16006)
 
 ![Board Dimensions](https://img.shields.io/badge/PCB%20Size-20mm%20x%2015mm-blue)
-![Input Voltage](https://img.shields.io/badge/Input%20Voltage-4.2V%20--%2060V-green)
+![Input Voltage](https://img.shields.io/badge/Input%20Voltage-12V%20-green)
 ![Output Voltage](https://img.shields.io/badge/Output%20Voltage-3.3V-orange)
 ![Switching Frequency](https://img.shields.io/badge/Switching%20Frequency-700kHz-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
