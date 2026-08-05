@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.4-1.fc44*%
+%TF.CreationDate,2026-08-05T14:50:02+05:30*%
+%TF.ProjectId,lmr16006-12v-3v3-sw-buck-conv,6c6d7231-3630-4303-962d-3132762d3376,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.4-1.fc44) date 2026-08-05 14:50:02*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,0.850000X0.850000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,GND*%
+X98835000Y-81075000D03*
+%TD*%
+%TO.C,12V*%
+X81335000Y-93725000D03*
+%TD*%
+%TO.C,3.3V*%
+X98585000Y-93750000D03*
+%TD*%
+%TO.C,GND*%
+X81085000Y-81075000D03*
+%TD*%
+M02*
